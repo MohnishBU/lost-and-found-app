@@ -6,9 +6,8 @@ Users that find someone's lost belongings or users that lose their own stuff can
 When someone's lost item matches something someone else found, the users are matched. 
 
 To run the app
-1. unzip the files in the repository
-2. enter the directory (cd lost-and-found)
-3. run the command (npm start)
+1. enter the directory (cd lost-and-found)
+2. run the command (npm start)
 
 To Check the functionality:
 1. Sign up as a new user
